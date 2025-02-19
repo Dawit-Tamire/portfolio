@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Dawit Tamire Portfolio",
     type: "website",
-    url: "http://dawittamire.com/",
+    url: "",
   },
 };
 
