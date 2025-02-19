@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Zemen insurance crm",
+      "createdAt": "2024-07-02T00:00:00Z",
+      "url": "",
+      "description": "🔥 Crm for an insurance company with full insurance software.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "ReactJS",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Ethiopost Crm",
+      "createdAt": "2025-01-19T00:00:00Z",
+      "url": "",
+      "description": "🔥 Crm built for ethiopost post office company system integration.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "ReactJS",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Cadaster",
+      "createdAt": "2023-8-12T00:00:00Z",
+      "url": "",
+      "description": "📦 Cadaster system for Ethiopia.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AngularJS",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": ".net",
+          "iconifyClass": "logos-dotnet"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Na Tours",
+      "createdAt": "2023-2-12T00:00:00Z",
+      "url": "https://github.com/Dawit-Tamire/Natours-project",
+      "description": "🌀 A tour web app built for certification final project.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "ReactJS",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Online Wholesale Marketing Platform for Ethiopian Retailers and Suppliers (Thesis project)",
+      "createdAt": "2022-12-12T00:00:00Z",
+      "url": "https://github.com/Dawit-Tamire/Online-Wholesale-Marketing-Platform-For-Retailers-and-Suppliers-JEMLA",
+      "description": "⚙️ An E-commerce website for college final project.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "ReactJS",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    }
+  ]
+}
